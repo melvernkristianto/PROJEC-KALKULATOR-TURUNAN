@@ -4,7 +4,7 @@ import sympy as sp
 
 x = sp.Symbol('x')
 
-
+# tes 123
 def hitung_turunan():
     soal = input_fungsi.get()
 
